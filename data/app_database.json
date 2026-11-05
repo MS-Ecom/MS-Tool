@@ -1,0 +1,209 @@
+{
+  "users": [
+    {
+      "id": "usr_sales_1",
+      "name": "Sarah Jenkins",
+      "email": "ecommerce@msappliances.com",
+      "role": "sales_rep",
+      "status": "active",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "usr_accounting_1",
+      "name": "David Miller",
+      "email": "accounting@msappliances.com",
+      "role": "accounting_reviewer",
+      "status": "active",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "usr_admin_1",
+      "name": "Robert Vance",
+      "email": "admin@msappliances.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    }
+  ],
+  "activeUserId": "usr_sales_1",
+  "quotes": [
+    {
+      "ewqNumber": "EWQ-67803",
+      "soNumber": "67803",
+      "version": 1,
+      "soDate": "2026-10-12",
+      "shipDate": "2026-10-15",
+      "shipVia": "Standard Freight (White Glove)",
+      "salesRep": "Sarah Jenkins",
+      "customer": {
+        "name": "Eleanor Vance",
+        "phone": "(585) 442-8819",
+        "email": "eleanor.vance@example.com",
+        "billingAddress": "142 Elmwood Ave, Rochester, NY 14620"
+      },
+      "shipping": {
+        "name": "Eleanor Vance",
+        "phone": "(585) 442-8819",
+        "address": "142 Elmwood Ave",
+        "city": "Rochester",
+        "state": "NY",
+        "zip": "14620",
+        "country": "United States"
+      },
+      "items": [
+        {
+          "id": "item_1",
+          "model": "RF28R7351SR",
+          "description": "French Door Refrigerator 28 cu ft Stainless",
+          "classification": "Major Appliances",
+          "quantity": 1,
+          "unitPrice": 2199,
+          "lineTotal": 2199,
+          "ewSelected": true,
+          "eligibilityStatus": "Eligible"
+        },
+        {
+          "id": "item_2",
+          "model": "DW80R9950US",
+          "description": "Built-In StormWash Dishwasher 42 dBA",
+          "classification": "Major Appliances",
+          "quantity": 1,
+          "unitPrice": 899,
+          "lineTotal": 899,
+          "ewSelected": true,
+          "eligibilityStatus": "Eligible"
+        },
+        {
+          "id": "item_3",
+          "model": "DELV-HOOKUP",
+          "description": "White Glove Delivery, Uncrate & Leveling",
+          "classification": "Delivery / Freight",
+          "quantity": 1,
+          "unitPrice": 150,
+          "lineTotal": 150,
+          "ewSelected": false,
+          "eligibilityStatus": "Ineligible"
+        }
+      ],
+      "eligibility": {
+        "status": "Eligible",
+        "shipDate": "2026-10-15",
+        "currentDate": "2026-11-05",
+        "daysSinceShipment": 21,
+        "daysRemaining": 159
+      },
+      "selectedPackage": {
+        "id": "opt_bundle_2",
+        "sku": "BN2-MA4999N5B_TE",
+        "packageName": "2-Appliance Pkg (Bundled Protection)",
+        "coveragePeriod": "5-Year Date of Purchase Protection",
+        "coverageDescription": "Comprehensive bundled coverage protecting 2 selected appliances up to $3,098.00 combined value.",
+        "eligibleItemCount": 2,
+        "eligibleTotalValue": 3098,
+        "ewBasePrice": 560,
+        "salesTaxAmount": 44.8,
+        "surchargeAmount": 18.14,
+        "finalCustomerTotal": 622.94,
+        "recommendation": "BEST VALUE",
+        "pricingRule": "Authoritative Bundle Tier: BN2-MA4999N5B_TE"
+      },
+      "availablePackages": [],
+      "taxInfo": {
+        "shipToAddress": "142 Elmwood Ave, Rochester, NY 14620",
+        "matchedJurisdiction": "Monroe - NY Tax (Rochester, NY 14620)",
+        "standardTaxRate": 0.08,
+        "appliedTaxRate": 0.08,
+        "taxAmount": 44.8,
+        "taxExempt": false,
+        "taxExemptionStatus": "None"
+      },
+      "surcharge": {
+        "enabled": true,
+        "rate": 0.03,
+        "amount": 18.14
+      },
+      "totals": {
+        "ewPackagePrice": 560,
+        "salesTax": 44.8,
+        "surcharge": 18.14,
+        "finalCustomerTotal": 622.94
+      },
+      "status": "Saved",
+      "referenceDataSnapshot": {
+        "version": "v2026.11.05-1",
+        "syncTimestamp": "2026-11-05T07:48:43.000Z",
+        "sourceSpreadsheet": "https://docs.google.com/spreadsheets/d/1mTxeBlnXvfPWBxWFkB17OD4XLa5XsRKwsflWdMvLZ2c"
+      },
+      "createdBy": "Sarah Jenkins",
+      "id": "quote_881c16b8-350a-4f3f-b821-21ac298e9552",
+      "createdAt": "2026-11-05T16:02:11.542Z",
+      "updatedAt": "2026-11-05T16:02:11.542Z"
+    }
+  ],
+  "taxExemptions": [],
+  "activityLogs": [
+    {
+      "action": "Quote Created & Saved",
+      "relatedEWQ": "EWQ-67803",
+      "relatedSO": "67803",
+      "description": "Created EW Quote EWQ-67803 v1 for customer Eleanor Vance. Final Total: $622.94",
+      "user": "Sarah Jenkins",
+      "userEmail": "ecommerce@msappliances.com",
+      "userRole": "sales_rep",
+      "id": "log_1793894531542_df2tv",
+      "timestamp": "2026-11-05T16:02:11.542Z"
+    },
+    {
+      "id": "log_1793894510399_init",
+      "timestamp": "2026-11-05T16:01:50.399Z",
+      "user": "Robert Vance",
+      "userEmail": "admin@msappliances.com",
+      "userRole": "admin",
+      "action": "System Initialized",
+      "description": "Database initialized with core rules, default users, and audit logs."
+    }
+  ],
+  "settings": {
+    "eligibilityPeriodDays": 180,
+    "surchargeEnabled": true,
+    "surchargeRate": 0.03,
+    "ewqFormat": "EWQ-[SO]",
+    "currency": "USD",
+    "defaultQuoteStatus": "Saved",
+    "acceptedFileFormats": [
+      "pdf",
+      "jpg",
+      "jpeg",
+      "png"
+    ],
+    "maxUploadSizeMB": 15,
+    "googleSpreadsheetUrl": "https://docs.google.com/spreadsheets/d/1mTxeBlnXvfPWBxWFkB17OD4XLa5XsRKwsflWdMvLZ2c",
+    "autoSyncHours": 24,
+    "legalSurchargeDisclaimer": "Credit card surcharges are subject to applicable card network rules and state/jurisdiction regulations."
+  },
+  "calculationHistory": [
+    {
+      "id": "calc_bd808347-cfb1-4da8-908f-b560bd3d604d",
+      "quoteId": "quote_881c16b8-350a-4f3f-b821-21ac298e9552",
+      "version": 1,
+      "soNumber": "67803",
+      "timestamp": "2026-11-05T16:02:11.542Z",
+      "calculatedBy": "Sarah Jenkins",
+      "inputSummary": {
+        "soNumber": "67803",
+        "itemsCount": 3,
+        "eligibleItemsCount": 2,
+        "taxRate": 0.08,
+        "surchargeEnabled": true
+      },
+      "resultSummary": {
+        "selectedPackage": "2-Appliance Pkg (Bundled Protection)",
+        "ewBasePrice": 560,
+        "salesTax": 44.8,
+        "surcharge": 18.14,
+        "finalCustomerTotal": 622.94
+      },
+      "referenceVersion": "v2026.11.05-1"
+    }
+  ]
+}

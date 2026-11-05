@@ -1,0 +1,470 @@
+[
+  {
+    "id": "pkg_1",
+    "sku": "BN-MA0299N5B_TE",
+    "itemCoverage": 1,
+    "packageName": "Individual Pkg",
+    "minItemPrice": 0,
+    "maxItemPrice": 299.99,
+    "itemPriceRange": "$0.00 – $299.99",
+    "price": 75,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_2",
+    "sku": "BN-MA0699N5B_TE",
+    "itemCoverage": 1,
+    "packageName": "Individual Pkg",
+    "minItemPrice": 300,
+    "maxItemPrice": 699.99,
+    "itemPriceRange": "$300.00 – $699.99",
+    "price": 150,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_3",
+    "sku": "BN-MA0899N5B_TE",
+    "itemCoverage": 1,
+    "packageName": "Individual Pkg",
+    "minItemPrice": 700,
+    "maxItemPrice": 899.99,
+    "itemPriceRange": "$700.00 – $899.99",
+    "price": 180,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_4",
+    "sku": "BN-MA1199N5B_TE",
+    "itemCoverage": 1,
+    "packageName": "Individual Pkg",
+    "minItemPrice": 900,
+    "maxItemPrice": 1199.99,
+    "itemPriceRange": "$900.00 – $1,199.99",
+    "price": 225,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_5",
+    "sku": "BN-MA1599N5B_TE",
+    "itemCoverage": 1,
+    "packageName": "Individual Pkg",
+    "minItemPrice": 1200,
+    "maxItemPrice": 1599.99,
+    "itemPriceRange": "$1,200.00 – $1,599.99",
+    "price": 275,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_6",
+    "sku": "BN-MA2199N5B_TE",
+    "itemCoverage": 1,
+    "packageName": "Individual Pkg",
+    "minItemPrice": 1600,
+    "maxItemPrice": 2199.99,
+    "itemPriceRange": "$1,600.00 – $2,199.99",
+    "price": 350,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_7",
+    "sku": "BN-MA2999N5B_TE",
+    "itemCoverage": 1,
+    "packageName": "Individual Pkg",
+    "minItemPrice": 2200,
+    "maxItemPrice": 2999.99,
+    "itemPriceRange": "$2,200.00 – $2,999.99",
+    "price": 400,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_8",
+    "sku": "BN-MA3999N5B_TE",
+    "itemCoverage": 1,
+    "packageName": "Individual Pkg",
+    "minItemPrice": 3000,
+    "maxItemPrice": 3999.99,
+    "itemPriceRange": "$3,000.00 – $3,999.99",
+    "price": 500,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_9",
+    "sku": "BN-MA8999N5B_TE",
+    "itemCoverage": 1,
+    "packageName": "Individual Pkg",
+    "minItemPrice": 4000,
+    "maxItemPrice": 8999.99,
+    "itemPriceRange": "$4,000.00 – $8,999.99",
+    "price": 695,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_10",
+    "sku": "BN-MA14999N5B_TE",
+    "itemCoverage": 1,
+    "packageName": "Individual Pkg",
+    "minItemPrice": 9000,
+    "maxItemPrice": 14999.99,
+    "itemPriceRange": "$9,000.00 – $14,999.99",
+    "price": 985,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_11",
+    "sku": "BN-MA29999N5B_TE",
+    "itemCoverage": 1,
+    "packageName": "Individual Pkg",
+    "minItemPrice": 15000,
+    "maxItemPrice": 29999.99,
+    "itemPriceRange": "$15,000.00 – $29,999.99",
+    "price": 1250,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_12",
+    "sku": "BN2-MA2499N5B_TE",
+    "itemCoverage": 2,
+    "packageName": "2-Appliance Pkg",
+    "minItemPrice": 0,
+    "maxItemPrice": 2499.99,
+    "itemPriceRange": "$0.00 – $2,499.99",
+    "price": 295,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_13",
+    "sku": "BN2-MA4999N5B_TE",
+    "itemCoverage": 2,
+    "packageName": "2-Appliance Pkg",
+    "minItemPrice": 2500,
+    "maxItemPrice": 4999.99,
+    "itemPriceRange": "$2,500.00 – $4,999.99",
+    "price": 560,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_14",
+    "sku": "BN2-MA7499N5B_TE",
+    "itemCoverage": 2,
+    "packageName": "2-Appliance Pkg",
+    "minItemPrice": 5000,
+    "maxItemPrice": 7499.99,
+    "itemPriceRange": "$5,000.00 – $7,499.99",
+    "price": 845,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_15",
+    "sku": "BN2-MA9999N5B_TE",
+    "itemCoverage": 2,
+    "packageName": "2-Appliance Pkg",
+    "minItemPrice": 7500,
+    "maxItemPrice": 9999.99,
+    "itemPriceRange": "$7,500.00 – $9,999.99",
+    "price": 990,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_16",
+    "sku": "BN2-MA19999N5B_TE",
+    "itemCoverage": 2,
+    "packageName": "2-Appliance Pkg",
+    "minItemPrice": 10000,
+    "maxItemPrice": 19999.99,
+    "itemPriceRange": "$10,000.00 – $19,999.99",
+    "price": 1275,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_17",
+    "sku": "BN3-MA2499N5B_TE",
+    "itemCoverage": 3,
+    "packageName": "3-Appliance Pkg",
+    "minItemPrice": 0,
+    "maxItemPrice": 2499.99,
+    "itemPriceRange": "$0.00 – $2,499.99",
+    "price": 420,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_18",
+    "sku": "BN3-MA4999N5B_TE",
+    "itemCoverage": 3,
+    "packageName": "3-Appliance Pkg",
+    "minItemPrice": 2500,
+    "maxItemPrice": 4999.99,
+    "itemPriceRange": "$2,500.00 – $4,999.99",
+    "price": 650,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_19",
+    "sku": "BN3-MA7499N5B_TE",
+    "itemCoverage": 3,
+    "packageName": "3-Appliance Pkg",
+    "minItemPrice": 5000,
+    "maxItemPrice": 7499.99,
+    "itemPriceRange": "$5,000.00 – $7,499.99",
+    "price": 1000,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_20",
+    "sku": "BN3-MA9999N5B_TE",
+    "itemCoverage": 3,
+    "packageName": "3-Appliance Pkg",
+    "minItemPrice": 7500,
+    "maxItemPrice": 9999.99,
+    "itemPriceRange": "$7,500.00 – $9,999.99",
+    "price": 1200,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_21",
+    "sku": "BN3-MA19999N5B_TE",
+    "itemCoverage": 3,
+    "packageName": "3-Appliance Pkg",
+    "minItemPrice": 10000,
+    "maxItemPrice": 19999.99,
+    "itemPriceRange": "$10,000.00 – $19,999.99",
+    "price": 1500,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_22",
+    "sku": "BN4-MA2499N5B_TE",
+    "itemCoverage": 4,
+    "packageName": "4-Appliance Pkg",
+    "minItemPrice": 0,
+    "maxItemPrice": 2499.99,
+    "itemPriceRange": "$0.00 – $2,499.99",
+    "price": 545,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_23",
+    "sku": "BN4-MA4999N5B_TE",
+    "itemCoverage": 4,
+    "packageName": "4-Appliance Pkg",
+    "minItemPrice": 2500,
+    "maxItemPrice": 4999.99,
+    "itemPriceRange": "$2,500.00 – $4,999.99",
+    "price": 765,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_24",
+    "sku": "BN4-MA7499N5B_TE",
+    "itemCoverage": 4,
+    "packageName": "4-Appliance Pkg",
+    "minItemPrice": 5000,
+    "maxItemPrice": 7499.99,
+    "itemPriceRange": "$5,000.00 – $7,499.99",
+    "price": 1070,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_25",
+    "sku": "BN4-MA9999N5B_TE",
+    "itemCoverage": 4,
+    "packageName": "4-Appliance Pkg",
+    "minItemPrice": 7500,
+    "maxItemPrice": 9999.99,
+    "itemPriceRange": "$7,500.00 – $9,999.99",
+    "price": 1375,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  },
+  {
+    "id": "pkg_26",
+    "sku": "BN4-MA19999N5B_TE",
+    "itemCoverage": 4,
+    "packageName": "4-Appliance Pkg",
+    "minItemPrice": 10000,
+    "maxItemPrice": 19999.99,
+    "itemPriceRange": "$10,000.00 – $19,999.99",
+    "price": 1650,
+    "coveragePeriod": "5-Year Protection (from purchase)",
+    "eligibleCategories": [
+      "Major Appliances",
+      "Small Appliances",
+      "Electronics"
+    ],
+    "effectiveDate": "2026-01-01",
+    "expirationDate": "2027-12-31"
+  }
+]

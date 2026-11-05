@@ -1,0 +1,6 @@
+{
+  "name": "MS Appliances – Extended Warranty Quotation Management System",
+  "description": "Enterprise Extended Warranty (EW) Quotation Management System for MS Appliances with multimodal Sales Order extraction, 180-day eligibility rules, authoritative Google Sheets reference data sync, tax calculations, and quotation workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
